@@ -1,7 +1,8 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "message": "Website sedang maintenance. Coba lagi nanti.",
   "adminToken": "ADMIN123"
 }
+
 
 
