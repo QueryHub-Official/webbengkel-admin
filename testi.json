@@ -1,22 +1,22 @@
 [
   {
-    name: "Andi Pratama",
-    rating: 5,
-    text: "Servis cepat, mekanik ramah, motor langsung enak dipakai."
+    "name": "Andi Pratama",
+    "rating": 5,
+    "text": "Servis cepat, mekanik ramah, motor langsung enak dipakai."
   },
   {
-    name: "Rizky Mahendra",
-    rating: 5,
-    text: "Bengkel rapi, penjelasan jujur, hasil kerja memuaskan."
+    "name": "Rizky Mahendra",
+    "rating": 5,
+    "text": "Bengkel rapi, penjelasan jujur, hasil kerja memuaskan."
   },
   {
-    name: "Budi Santoso",
-    rating: 4,
-    text: "Harga masuk akal dan pengerjaan cepat."
+    "name": "Budi Santoso",
+    "rating": 4,
+    "text": "Harga masuk akal dan pengerjaan cepat."
   },
   {
-    name: "Fajar Nugroho",
-    rating: 5,
-    text: "Tune up berasa banget, motor jadi halus."
+    "name": "Fajar Nugroho",
+    "rating": 5,
+    "text": "Tune up berasa banget, motor jadi halus."
   }
 ]
